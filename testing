@@ -2,4 +2,5 @@ test
 ##
 testing
 with different reviewers
-with codeowners only 
+with codeowners only \
+testing .git
